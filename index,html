@@ -1,0 +1,203 @@
+```html
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Suhandono Wijoyokusumo</title>
+
+<style>
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+    background:#f4f6f9;
+}
+
+.nav{
+    background:#0a0a3d;
+    padding:15px;
+    text-align:center;
+}
+
+.nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+    font-weight:bold;
+}
+
+.container{
+    max-width:900px;
+    margin:30px auto;
+    background:white;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0.1);
+    text-align:center;
+}
+
+.profile{
+    width:220px;
+    height:220px;
+    border-radius:50%;
+    object-fit:cover;
+    border:5px solid darkblue;
+}
+
+h1{
+    color:darkblue;
+}
+
+.section{
+    margin-top:40px;
+}
+
+.book{
+    text-align:left;
+    max-width:500px;
+    margin:auto;
+}
+
+.footer{
+    margin-top:40px;
+    padding:20px;
+    background:#0a0a3d;
+    color:white;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="nav">
+<a href="#beranda">Beranda</a>
+<a href="#tentang">Tentang Saya</a>
+<a href="#buku">Buku</a>
+<a href="#visi">Visi</a>
+<a href="#kontak">Kontak</a>
+</div>
+
+<div class="container">
+
+<section id="beranda">
+
+<img src="profil.jpg" alt="Foto Profil" class="profile">
+
+<h1>Suhandono Wijoyokusumo</h1>
+
+<h2>Penulis, Pengajar Spiritual, dan Penulis Buku Kundalini</h2>
+
+<p><b>TRISULAVEDHA KUNDALINI</b></p>
+
+<p>
+Selamat datang di website resmi saya.
+</p>
+
+<p>
+Berisi artikel, buku, dan ajaran spiritual yang saya bagikan untuk masyarakat.
+</p>
+
+</section>
+
+<section id="buku" class="section">
+
+<h2>Buku Karya Saya</h2>
+
+<div class="book">
+<ul>
+<li>33 Pertanyaan Kundalini</li>
+<li>50 Pertanyaan Chakra</li>
+<li>50 Pertanyaan Sapta Patala</li>
+<li>Nabhi Chikitsa</li>
+<li>Kundalini Golden Flower Level 33</li>
+<li>100 Pertanyaan Chakra Wisdom</li>
+<li>150 Pertanyaan dan Jawaban Kundalini</li>
+</ul>
+</div>
+
+</section>
+
+<section id="tentang" class="section">
+
+<h2>Tentang Saya</h2>
+
+<p>
+Saya adalah Suhandono Wijoyokusumo,
+penulis dan pengajar spiritual yang telah mengajar secara online sejak tahun 1999.
+</p>
+
+<p>
+Telah menulis lebih dari 40 buku tentang Kundalini,
+Chakra, Nabhi Chikitsa, Sapta Patala,
+dan pengembangan kesadaran.
+</p>
+
+<p>
+Saya membagikan pengetahuan melalui buku,
+website, Facebook, dan berbagai media online.
+</p>
+
+</section>
+
+<section id="visi" class="section">
+
+<h2>Visi</h2>
+
+<p>
+Menyebarkan ajaran Trisulavedha Kundalini dan
+Kundalini Golden Flower Level 33 kepada masyarakat dunia
+melalui pendidikan, buku, dan media digital.
+</p>
+
+</section>
+
+<section class="section">
+
+<h2>Galeri Buku</h2>
+
+<img src="cover1.jpg" width="180">
+<img src="cover2.jpg" width="180">
+<img src="cover3.jpg" width="180">
+
+<p>
+Tambahkan cover buku Anda di sini.
+</p>
+
+</section>
+
+<section id="kontak" class="section">
+
+<h2>Kontak</h2>
+
+<p>
+Facebook :
+<a href="https://www.facebook.com/profile.php?id=61576418581651" target="_blank">
+Suhandono Wijoyokusumo
+</a>
+</p>
+
+<p>
+WhatsApp :
+<a href="https://wa.me/6281292816628" target="_blank">
+081292816628
+</a>
+</p>
+
+<p>
+Email :
+anda@email.com
+</p>
+
+</section>
+
+</div>
+
+<div class="footer">
+© 2026 Suhandono Wijoyokusumo - All Rights Reserved
+</div>
+
+</body>
+</html>
+```
